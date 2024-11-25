@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Professional vs. Institutional Billing: Key Differences Explained for Healthcare Providers](README.md)
